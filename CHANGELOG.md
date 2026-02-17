@@ -1,5 +1,3 @@
-<![CDATA[<div align="center">
-
 ```
                                .:---==--------==--:.
                          .-----.....................-----..                            _  _ __  __   _   ___
@@ -252,12 +250,3 @@ The design principle behind Nmap Siesta is **non-invasive augmentation**:
 4. **The YAML parser is self-contained** — no external YAML library dependency; lightweight key-value parsing built into `nmap_schedule.cc`
 
 ---
-
-<div align="center">
-
-*Built on the shoulders of [Nmap](https://nmap.org) — 26 years of network scanning excellence.*
-
-*Siesta additions by **illmob**.*
-
-</div>
-]]>
